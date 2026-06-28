@@ -1,0 +1,6 @@
+{
+  "name": "Nero de la 375",
+  "description": "Restaurante de comida rápida con opciones vegetarianas, frituras y desayunos en Calle Tullu Mayu, Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
